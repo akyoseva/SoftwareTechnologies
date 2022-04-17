@@ -1,4 +1,3 @@
-# SoftwareTechnologies
 ## Project: Product Discounter
 ### Idea
 Product Discounter is a mobile application that allows you to subscribe for products from any kind and from any online shop and to watch for any change in their price. Once a specific product is discounted, the application sends notification to the user.
