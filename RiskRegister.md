@@ -1,4 +1,3 @@
-﻿# SoftwareTechnologies
 ## Risk Register
 ### Definition
 A project risk register is a tool project managers use to track and monitor any potential risks that might impact their projects. This process aims to collectively identify, analyze, and solve risks before they become problems. A risk register document, otherwise known as a risk register log, tracks potential risks specifically within a project. It also includes information about the priority of the risk and the likelihood of it happening.
