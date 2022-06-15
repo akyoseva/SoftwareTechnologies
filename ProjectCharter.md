@@ -50,6 +50,15 @@ Not to exceed *$10,000*
 - The feature is reviewed by stakeholders
 
 ***
+### ***Definition of Ready***
+- The value of Story to the user is clearly indicated
+- The acceptance criteria for Story have been clearly described
+- User Story dependencies identified
+- User Story sized by Delivery Team
+- Scrum Team accepts User Experience artifacts
+- Person who will accept the User Story is identified
+- The team knows how to demo the story
+***
 ### ***Project Team Members***
 - Antonina Kyoseva
 - Bozhidara Pachilova
