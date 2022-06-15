@@ -41,7 +41,7 @@ Not to exceed *$10,000*
 - The code is reviewed
 - The code is deployed on staging
 - The code is documented and updated corresponding specifications
-- The features is reviewed by stakeholders
+- The feature is reviewed by stakeholders
 
 ***
 ### ***Project Team Members***
