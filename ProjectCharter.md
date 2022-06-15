@@ -25,7 +25,7 @@ Creating a mobile application with the new concept, which has no competitor yet.
 - Time overrun.
 ***
 ### ***Project Budget***
-Not to exceed *$10,000*
+Not to exceed *$100,000*
 ***
 ### ***Project Milestones***
 - MVP
