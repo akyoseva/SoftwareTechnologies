@@ -28,23 +28,19 @@ Creating a mobile application with the new concept, which has no competitor yet.
 Not to exceed *$10,000*
 ***
 ### ***Project Milestones***
-- Creating basic authentication.
-- Product search in 2 predefined stores.
-- Product URL subscription.
-- Email notifications for subscription.
-- Visa, MasterCard, Google & Apple pay integration.
-- Creating layout and interface.
+- MVP
+- Work on UI for Q1 is ready IInterface Q1)
+- Successful parthenrship established with online stores during Q1
+- Becoming Legally compliant with local commercial law and GDPR
+- MMP
+- Work on UI for Q2 is ready IInterface Q2)
+- Successful parthenrship established with additional online stores during Q2
+- Envisioned enhancements added during Q3
+- Close testing process in Q3
+- Final Product
+- Launch Marketing Campaign
+- Official launch
 ***
-
-### ***Definition of Ready***
-- The value of Story to the user is clearly indicated
-- The acceptance criteria for Story have been clearly described
-- User Story dependencies identified
-- User Story sized by Delivery Team
-- Scrum Team accepts User Experience artifacts
-- Person who will accept the User Story is identified
-- The team knows how to demo the story
-
 ### ***Definition of Done***
 - The code is unit tested
 - The code is regression tested
