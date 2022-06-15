@@ -35,6 +35,14 @@ Not to exceed *$10,000*
 - Visa, MasterCard, Google & Apple pay integration.
 - Creating layout and interface.
 
+### ***Definition of Done***
+- The code is unit tested
+- The code is regression tested
+- The code is reviewed
+- The code is deployed on staging
+- The code is documented and updated corresponding specifications
+- The features is reviewed by stakeholders
+
 ***
 ### ***Project Team Members***
 - Antonina Kyoseva
