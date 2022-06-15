@@ -35,6 +35,16 @@ Not to exceed *$10,000*
 - Visa, MasterCard, Google & Apple pay integration.
 - Creating layout and interface.
 ***
+
+### ***Definition of Ready***
+- The value of Story to the user is clearly indicated
+- The acceptance criteria for Story have been clearly described
+- User Story dependencies identified
+- User Story sized by Delivery Team
+- Scrum Team accepts User Experience artifacts
+- Person who will accept the User Story is identified
+- The team knows how to demo the story
+
 ### ***Definition of Done***
 - The code is unit tested
 - The code is regression tested
