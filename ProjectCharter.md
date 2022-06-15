@@ -34,7 +34,7 @@ Not to exceed *$10,000*
 - Email notifications for subscription.
 - Visa, MasterCard, Google & Apple pay integration.
 - Creating layout and interface.
-
+***
 ### ***Definition of Done***
 - The code is unit tested
 - The code is regression tested
